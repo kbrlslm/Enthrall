@@ -1,6 +1,6 @@
 package hw3JavaVariables;
 
-import java.security.Identity;
+
 
 public class AboutMe {
 	// variable declaration
@@ -15,7 +15,6 @@ public class AboutMe {
 	public double myHeight = 129.3456789123456;
 	public char myMiddleInitial = 'K';
 	public boolean myCitizenshipStatus = false;
-
 	public static void main(String[] args) {
 		// instantiation
 		AboutMe myInfo = new AboutMe();
